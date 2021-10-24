@@ -3,3 +3,6 @@ Belajar Github
 - bembuat repository
 - membuat file
 - menghapus
+Push tugas
+- tugas 1
+- tugas menghitung luas lingkaran
