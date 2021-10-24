@@ -1,0 +1,5 @@
+Belajar Github
+- membuat akun
+- bembuat repository
+- membuat file
+- menghapus
